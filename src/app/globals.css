@@ -4,13 +4,13 @@
   /* Base units */
   /* --vw is set by ThemeProvider */
 
-  --background: #f5f5f0;;
-  --card: #efeee8;;
-  --foreground: #2a2d1f;;
-  --primary-cta: #7a7a52;;
-  --secondary-cta: #ffffff;;
-  --accent: #a0a085;;
-  --background-accent: #5f5f3f;;
+  --background: #0a0a0a;
+  --card: #1a1a1a;
+  --foreground: #fffef5e6;
+  --primary-cta: #facc15;
+  --secondary-cta: #1a1a1a;
+  --accent: #eab308;
+  --background-accent: #854d0e;
 
   /* text sizing - set by ThemeProvider */
   /* --text-2xs: clamp(0.465rem, 0.62vw, 0.62rem);
